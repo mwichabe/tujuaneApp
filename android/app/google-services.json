@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607776693499",
+    "project_id": "tujuaneapp",
+    "storage_bucket": "tujuaneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607776693499:android:c70cf5a9e9466393f8e45e",
+        "android_client_info": {
+          "package_name": "com.example.tujuane_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsSwYREZKYy_2ZMFKv0lW74snWPd7pUoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
